@@ -20,13 +20,11 @@ Three different pre-trained architectures were implemented and compared:
 ### ## 📈 Results
 After training for 10 epochs on the frozen base models, the following accuracies were achieved on the test set:
 
-| Model       | Test Accuracy |
-|-------------|---------------|
-| **ResNet50** | **XX.XX%** |
-| **VGG16** | **XX.XX%** |
-| **MobileNetV2** | **XX.XX%** |
-
-*(Remember to replace XX.XX% with your actual results!)*
+| Model | Test Accuracy |
+| :--- | :--- |
+| **ResNet50** | **92.48%** |
+| **VGG16** | **88.17%** |
+| **MobileNetV2** | **90.35%** |
 
 ---
 
